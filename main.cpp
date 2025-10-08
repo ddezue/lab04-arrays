@@ -31,7 +31,7 @@ int main() {
       printf("%7d", matrix[rowNumber][columnNumber]);
     }  
       
-      printf("\n");
+    printf("\n");
   }
   
   printf("\n");
@@ -48,4 +48,5 @@ int main() {
   }
   
   return 0;
+
 }
